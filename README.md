@@ -9,8 +9,6 @@
 - Part 4: Future Work 
 - Part 5: References
 
-GitHub link: https://github.com/liuchennn1414/TikTok_Hackathon.git
-
 ## Instructions:
 
 To run our code:
