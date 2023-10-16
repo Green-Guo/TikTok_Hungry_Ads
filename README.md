@@ -31,8 +31,9 @@ In this README file, we will provide an overview of our project, which focuses o
 Using the scoring model, we were able to split the ads and moderators into 3 categories, with high, medium, and low scores. The ads are then assigned to the moderators of the same category, as shown in Figure 1.
 <img width="593" alt="Screenshot 2023-09-09 at 11 18 43 PM" src="https://github.com/liuchennn1414/TikTok_Hackathon/assets/77218431/ce0698eb-f76f-4c18-83a4-deb6d98dfdf8">
 
-Another assignment algorithm is defined as
-<img width="593" alt="Screenshot 2023-09-09 at 11 18 43 PM" src="https://github.com/Green-Guo/git_home/blob/master/screenshot-20231016-184241.png">
+Another assignment algorithm is defined as:
+
+<img width="400" alt="Screenshot 2023-09-09 at 11 18 43 PM" src="https://github.com/Green-Guo/git_home/blob/master/screenshot-20231016-184241.png">
 
 Figure 1. Overview of our algorithm
 
